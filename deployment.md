@@ -1,6 +1,6 @@
 # Hoodie Deployment Guide
 
-Note that this is an incomplete draft. It should get you going with a production system, but there is no guarantee that there is not anything wrong with this setup form a performance or security perspective. Please check with your local sysadmin to make sure and please let us know if we can improve anything. :)
+Note that this is an incomplete draft. It should get you going with a production system, but there is no guarantee that there is not anything wrong with this setup from a performance or security perspective. Please check with your local sysadmin to make sure and please let us know if we can improve anything. :)
 
 This guide is for Linux only at this point. Other UNIXes should be covered too, with slight modifications.
 
